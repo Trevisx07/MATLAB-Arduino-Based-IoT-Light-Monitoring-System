@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RealTimeThingSpeak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1d78bef2a7bb04896680908f1e77ae33f8a4651")]
 [assembly: System.Reflection.AssemblyProductAttribute("RealTimeThingSpeak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RealTimeThingSpeak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
